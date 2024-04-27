@@ -1,0 +1,25 @@
+.bg {
+    background-color: rgb(29, 215, 193);
+}
+
+.cl {
+    color: rgba(209, 213, 219, 0.92);
+}
+
+.fo {
+    font-size: 4vw;
+}
+
+.sl {
+    color: rgb(29, 215, 193);
+}
+
+.mg {
+    height: 68%;
+}
+
+@media screen and (max-width: 780px) {
+    .md{
+     margin-top: 40px;
+    }
+   }

@@ -1,0 +1,23 @@
+.bg {
+    background-color: rgb(29, 215, 193);
+}
+
+.cl {
+    color: rgba(209, 213, 219, 0.92);
+}
+
+.sl {
+    color: rgb(29, 215, 193);
+}
+
+.fo {
+    font-size: 4vw;
+}
+
+.bv {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 40vh;
+}
